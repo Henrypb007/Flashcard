@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'automotivo',
-    'qual a origem do nome Porshe?'
+    'qual a origem do nome Porshe?',
     'o nome vem do sobrenome do fundador'
 )
 
