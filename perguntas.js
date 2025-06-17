@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'automotivo',
+    'Quando a Porshe foi fundada e por quem?',
+    'foi fundada em 1931 por Ferdinand Porshe em Stuttgart na alemanha'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'automotivo',
+    'qual a origem do nome Porshe?'
+    'o nome vem do sobrenome do fundador'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Automotivo',
+    'qual a história?',
+    'inicialmente a empresa atuava como consultoria de engenharia fazendo parte da volkswagen'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'automotivo',
+    'qual o primeiro carro?',
+    'O primeiro carro foi criado em 1948 um carro esportivo com carroceria de aluminio e motor traseiro inspirado em fusca o nome foi dado 356'
 )
